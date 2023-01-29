@@ -1,0 +1,9 @@
+1. Enter github account
+2. Create a empty repository
+3. create folder in local system
+    git config --global user.name "Ramu-Prajapati"
+    git config --global user.email "ramuprajapati26102001@gmail.com"
+4. git push -u original master
+    after authorisation save your file in server
+
+    
