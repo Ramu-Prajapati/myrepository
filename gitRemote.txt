@@ -6,4 +6,4 @@
 4. git push -u original master
     after authorisation save your file in server
 some changes
-    
+new change  
